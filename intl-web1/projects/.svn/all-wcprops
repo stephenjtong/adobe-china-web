@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/16/trunk/projects
+END
+linkProcessor.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/projects/linkProcessor.py
+END
+a.bat
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/projects/a.bat
+END
+Pushlist_generator.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/projects/Pushlist_generator.py
+END
+QA.py
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/15/trunk/projects/QA.py
+END
+genPushlist.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/projects/genPushlist.py
+END
+utls.py
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/projects/utls.py
+END

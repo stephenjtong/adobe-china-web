@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<go base='www.adobe.com'>
+  <item>
+    <gourl>/go/ksjf</gourl>
+    <destination>/</destination>
+    <geos>hu,lt</geos>
+  </item>
+
+  <item>
+    <gourl>/go/ffff</gourl>
+    <destination>/product</destination>
+    <geos>hu,lt</geos>
+  </item>
+</go>

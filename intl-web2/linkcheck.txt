@@ -1,0 +1,11 @@
+====ee/news.ssi====
+200
+	/aboutadobe/pressroom/pressreleases/201006/Q210Earnings.html
+	/digitalpublishing/
+	http://max.adobe.com/?promoid=GYIWO
+	/eeurope/choice/createwithoutlimits.html
+	/ee/products/flashplatformruntimes/
+404
+301
+	/go/photoshop_ee
+

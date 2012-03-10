@@ -1,0 +1,50 @@
+1735-1 - Acrobat X Help & Support page
+Priority: 2B
+Start Date: Dec 2 2010
+Due Date: Dec 23 2010
+Countries involved: FR, DE, JP, SE, IT, ES, NL, FI, NO, DK, BR, KR, CN, TW, CZ, PL, RO, RU, TR, HR, HU, SK, SI, UA
+Countries Ready: FR,DE,SE,T2,BR,KR,CN,TW,HK,CAFR,CZ,PL,RO,RU,TR,HR,HU,SK,SI,UA
+Countries Staged: JP, LA, MX
+Countries NOT ready nor staged: 
+Idiom Name: 
+link: https://skippy.adobe.com/cgi-bin/admin.cgi?Tabs=project&jumpto=1735-1
+
+================================================================================
+1705-8 - MCR:120669: PSE 9.0.2 update 
+**CLOSED**
+Priority: 2B
+Start Date: Dec 9 2010
+Due Date: Dec 21 2010
+Countries involved: UK, FR, DE, JP, AP, CAFR, SEA, MENA, AFRICA, EEUROPE
+Countries Ready: UK,DE
+Countries Staged: JP, KR, IT, ES, LA, MX, BR, FR, CAFR, EEUROPE, MENA, SEA, AP, AFRICA
+Countries NOT ready nor staged: 
+Idiom Name: 
+link: https://skippy.adobe.com/cgi-bin/admin.cgi?Tabs=project&jumpto=1705-8
+
+================================================================================
+1737-1 - LiveCycle Mobile Extra pages
+Priority: 2B
+Start Date: Dec 3 2010
+Due Date: Dec 22 2010
+Countries involved: UK, FR, DE, JP, AP, CAFR, SEA, MENA, AFRICA, EEUROPE
+Countries Ready: UK,MENA,AFRICA,AP,EEUROPE,SEA
+Countries Staged: 
+Countries NOT ready nor staged: FR, DE, JP, CAFR
+Idiom Name: 
+link: https://skippy.adobe.com/cgi-bin/admin.cgi?Tabs=project&jumpto=1737-1
+
+================================================================================
+1705-11 - Photoshop 12.0.3 Update
+**CLOSED**
+Priority: 2B
+Start Date: Dec 14 2010
+Due Date: Dec 18 2010
+Countries involved: T1, T2, T3, CZ
+Countries Ready: T1,T2,T3,CZ
+Countries Staged: 
+Countries NOT ready nor staged: 
+Idiom Name: 1705_BoBs3d_mcr120813
+link: https://skippy.adobe.com/cgi-bin/admin.cgi?Tabs=project&jumpto=1705-11
+
+================================================================================

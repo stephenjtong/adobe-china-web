@@ -1,0 +1,191 @@
+(1/1) http://www.adobe.com/lt/products/
+	Prieinamumas*	/help/accessibility.html
+	&bdquo;Adobe&ldquo;	/go/gnav_adobe_logo_lt
+	Produktai	/go/gnav_products_lt
+	Sprendimai	/go/gnav_solutions_lt
+	Mokymasis	/go/gnav_learning_lt
+	\xc5\xbdinynas	/go/gnav_help_lt
+	Atsisiuntimai	/go/gnav_downloads_lt
+	\xc4\xaemon\xc4\x97	/go/gnav_company_lt
+	Saugykla	/go/gnav_store_lt
+	&bdquo;Adobe&ldquo; saugykla	/go/gnavtray_store_lt
+	\xc5\xa0vietimo saugykla	/go/gnavtray_store_education_uk
+	Verslo saugykla	/go/gnavtray_store_business_lt
+	Kiti \xc4\xafsigijimo b\xc5\xabdai	/go/gnavtray_store_otherwaystobuy_lt
+	Ie\xc5\xa1koti	/go/gnav_search_lt
+	U\xc5\xbesiregistruoti	/cfusion/membership/index.cfm?loc=lt_lt&amp;nl=1
+	Sveiki atvyk\xc4\x99,	/cfusion/membership/index.cfm?loc=lt_lt&amp;nl=1
+	Mano ve\xc5\xbeim\xc4\x97lis	/go/gnav_mycart_lt
+	Mano siunta	/go/gnav_myshipments_lt
+	Mano parama	/go/gnav_mysupport_lt
+	Mano paskyra	/cfusion/membership/index.cfm?loc=lt_lt&amp;nl=1
+	I\xc5\xa1siregistruoti	/cfusion/membership/logout.cfm?returnURL=/lt
+	Pradinis puslapis	/lt/
+		/lt/products/creativesuite/design/
+	&bdquo;Creative Suite&reg; 5 Design Premium&ldquo;	/lt/products/creativesuite/design/
+	Pirkti	/lt/purchase/
+	Bandyti	/go/trydesignpremium_lt
+		/lt/products/creativesuite/web/
+	&bdquo;Creative Suite 5 Web Premium&ldquo;	/lt/products/creativesuite/web/
+	Pirkti	/lt/purchase/
+	Bandyti	/go/trywebpremium_lt
+		/lt/products/creativesuite/production/
+	&bdquo;Creative Suite 5 Production Premium&ldquo;	/lt/products/creativesuite/production/
+	Pirkti	/lt/purchase/
+	Bandyti	/go/tryproductionpremium_lt
+		/lt/products/creativesuite/mastercollection/
+	&bdquo;Creative Suite 5 Master Collection&ldquo;	/lt/products/creativesuite/mastercollection/
+	Pirkti	/lt/purchase/
+	Bandyti	/go/try_mastercollection_uk
+		/lt/products/photoshop/photoshop/
+	&bdquo;Photoshop&reg; CS5&ldquo;	/lt/products/photoshop/photoshop/
+	Pirkti	/lt/purchase/
+	Bandyti	/go/tryphotoshop_lt
+		/lt/products/photoshop/photoshopextended/
+	&bdquo;Photoshop CS5 Extended&ldquo;	/lt/products/photoshop/photoshopextended/
+	Pirkti	/lt/purchase/
+	Bandyti	/go/tryphotoshopextended_lt
+		/lt/products/photoshoplightroom/
+	&bdquo;Photoshop Lightroom&reg; 3&ldquo;	/lt/products/photoshoplightroom/
+	Pirkti	/lt/purchase/
+	Bandyti	/go/trylightroom_lt
+		/lt/products/photoshopelwin/
+	&bdquo;Photoshop Elements 9&ldquo;	/lt/products/photoshopelwin/
+	Pirkti	/lt/purchase/
+	Bandyti	/go/tryphotoshop_elements_uk
+		/lt/products/acrobatpro/
+	&bdquo;Acrobat&reg; X Pro&ldquo;	/lt/products/acrobatpro/
+	Pirkti	/lt/purchase/
+	Bandyti	/go/tryacrobatpro_lt
+		/lt/products/coldfusion/
+	&bdquo;ColdFusion 9&ldquo;	/lt/products/coldfusion/
+	Pirkti	/lt/purchase/
+	Bandyti	/go/trycoldfusion_uk
+		/lt/products/dreamweaver/
+	&bdquo;Dreamweaver&reg; CS5&ldquo;	/lt/products/dreamweaver/
+	Pirkti	/lt/purchase/
+	Bandyti	/go/trydreamweaver_lt
+		/lt/products/indesign/
+	&bdquo;InDesign&reg; CS5&ldquo;	/lt/products/indesign/
+	Pirkti	/lt/purchase/
+	Bandyti	/go/tryindesign_lt
+	&bdquo;Creative Suite&ldquo;	/lt/products/creativesuite/
+	&bdquo;Acrobat&ldquo; \xc5\xa1eima	/lt/products/acrobat/
+	&bdquo;Photoshop&ldquo;	/lt/products/photoshop/family/
+	Palaikomas &bdquo;Omniture&reg;&ldquo;*	http://www.omniture.com/
+	&bdquo;LiveCycle&reg; Enterprise Suite&ldquo;*	/eeurope/products/livecycle/
+	&bdquo;Flash&reg; platforma&ldquo;*	/eeurope/flashplatform/
+	&bdquo;Acrobat X Pro&ldquo;	/lt/products/acrobatpro.html
+	&bdquo;Acrobat X Standard&ldquo;	/lt/products/acrobatstandard.html
+	&bdquo;Acrobat X Suite&ldquo;	/lt/products/acrobatsuite.html
+	Acrobat.com	/eeurope/acom/
+	Adobe&reg; CreatePDF	http://createpdf.adobe.com
+	Adobe&reg; SendNow	http://sendnow.acrobat.com
+	After Effects&reg;	/lt/products/aftereffects/
+	&bdquo;Adobe&reg; AIR&reg;&ldquo;	/lt/products/air/
+	&bdquo;Adobe Audition&reg; 3&ldquo;	/lt/products/audition/
+	&bdquo;Authorware&reg; 7&ldquo;	/eeurope/products/authorware/
+	BrowserLab	/go/browserlab/
+	&bdquo;Business Catalyst&reg;&ldquo;	http://businesscatalyst.com?promoid=FDLLK
+	&bdquo;Adobe Captivate&reg; 5&ldquo;	/lt/products/captivate/
+	&bdquo;Central Pro Output Server&ldquo;	/products/livecycle/outputserver/centralpro/
+	&bdquo;Adobe Connect&trade;&ldquo;	/lt/products/adobeconnect.html
+	&bdquo;ColdFusion 9&ldquo;	/lt/products/coldfusion/
+	&bdquo;Content Server 4&ldquo;	/eeurope/products/contentserver/
+	&bdquo;Contribute&reg; CS5&ldquo;	/lt/products/contribute/
+	&bdquo;CS Live&ldquo;	/go/cslive_lt
+	CS per\xc5\xbei\xc5\xabra	/go/csreview_lt
+	&bdquo;Creative Suite 5 Design Premium&ldquo;	/lt/products/creativesuite/design/
+	&bdquo;Creative Suite 5 Design Standard&ldquo;	/lt/products/creativesuite/design/standard/
+	&bdquo;Creative Suite 5 Web Premium&ldquo;	/lt/products/creativesuite/web/
+	&bdquo;Creative Suite 5 Master Collection&ldquo;	/lt/products/creativesuite/mastercollection/
+	&bdquo;Creative Suite 5 Production Premium&ldquo;	/lt/products/creativesuite/production/
+	Day CQ5	http://www.day.com/day/en/products.html
+	Day CS5 Digital Asset Management	http://www.day.com/day/en/products/digital_asset_management.html
+	Day CQ5 Social Collaboration	http://www.day.com/day/en/products/social_collaboration.html
+	Day CQ5 Web Content Management	http://www.day.com/day/en/products/web_content_management.html
+	Day CRX&reg;	http://www.day.com/day/en/products/crx.html
+	Digital Editions	/eeurope/products/digitaleditions/
+	Digital Publishing Suite	/eeurope/products/digitalpublishingsuite/
+	&bdquo;Director&reg; 11.5&ldquo;	/eeurope/products/director/
+	&bdquo;Adobe Discover&trade;&ldquo;	http://www.omniture.com/en/products/online_analytics/discover?s_cid=25197
+	&bdquo;Distiller Server 8&ldquo;	/eeurope/products/acrdis/
+	&bdquo;Dreamweaver CS5&ldquo;	/lt/products/dreamweaver/
+	&bdquo;eLearning Suite 2&ldquo;	/lt/products/elearningsuite/
+	&bdquo;Encore&reg; CS5&ldquo;	/lt/products/premiere/encore/
+	&bdquo;Fireworks&reg; CS5&ldquo;	/lt/products/fireworks/
+	&bdquo;Flash Access&reg;&ldquo;	/lt/products/flashaccess/
+	&bdquo;Flash Builder&trade; 4&ldquo;	/eeurope/products/flashbuilder/
+	&bdquo;Flash Catalyst&trade; CS5&ldquo;	/lt/products/flashcatalyst/
+	&bdquo;Flash Platform&ldquo; paslaugos	/flashplatform/services
+	&bdquo;Adobe&reg; Flash&reg; Player&ldquo;	/lt/products/flashplayer/
+	&bdquo;Flash Professional CS5&ldquo;	/lt/products/flash/
+	&bdquo;Flash Remoting MX&ldquo;	/eeurope/products/flashremoting/
+	&bdquo;Flash Video Streaming&ldquo; paslaugos	/go/fvss
+	&bdquo;Flex&reg; 4&ldquo;	/lt/products/flex/
+	&bdquo;Font Folio&reg; 11&ldquo;	/eeurope/products/fontfolio/
+	&bdquo;FrameMaker&reg; 9&ldquo;	/lt/products/framemaker/
+	&bdquo;FrameMaker Server 9&ldquo;	/lt/products/fmserver/
+	&bdquo;FreeHand&reg; MX&ldquo;	/eeurope/products/freehand/
+	&bdquo;Adobe Genesis&trade;&ldquo;	http://www.omniture.com/en/products/marketing_integration/genesis?s_cid=25206
+	HTTP dinaminis srautinis duomen\xc5\xb3 siuntimas	/lt/products/httpdynamicstreaming/
+	&bdquo;Illustrator&reg; CS5&ldquo;	/lt/products/illustrator/
+	&bdquo;InContext Editing&ldquo;	/eeurope/products/incontextediting/
+	&bdquo;InCopy&reg; CS5&ldquo;	/lt/products/incopy/
+	&bdquo;InDesign CS5&ldquo;	/lt/products/indesign/
+	&bdquo;Adobe Insight&ldquo;	http://www.omniture.com/en/products/multichannel_analytics/insight?s_cid=25198
+	&bdquo;JRun&trade; 4&ldquo;	/eeurope/products/jrun/
+	&bdquo;Kuler&reg;&ldquo;	/eeurope/products/kuler/
+	&bdquo;LiveCycle Enterprise Suite 2&ldquo;	/eeurope/products/livecycle/
+	&bdquo;Adobe Merchandising&ldquo;	http://www.omniture.com/en/products/conversion/merchandising?s_cid=25201
+	&bdquo;Adobe OnLocation&trade; CS5&ldquo;	/lt/products/premiere/onlocation/
+	&bdquo;Output Designer&ldquo;	/eeurope/products/server/outputdesigner/
+	&bdquo;Output Pak for mySAP.com&ldquo;	/products/livecycle/outputserver/outputpaksap/
+	&bdquo;Ovation&reg;&ldquo;	/products/ovation/
+	&bdquo;PageMaker&reg; 7.0&ldquo;	/eeurope/products/pagemaker/
+	&bdquo;Photoshop CS5&ldquo;	/lt/products/photoshop/photoshop/
+	&bdquo;Photoshop CS5 Extended&ldquo;	/lt/products/photoshop/photoshopextended/
+	&bdquo;Photoshop Elements 9&ldquo;	/lt/products/photoshopel/
+	&bdquo;Photoshop Elements 9&ldquo; ir &bdquo;Adobe Premiere&reg; Elements 9&ldquo;	/lt/products/psprelements/
+	&bdquo;Photoshop Lightroom 3&ldquo;	/lt/products/photoshoplightroom/
+	Photoshop.com	http://www.photoshop.com
+	&bdquo;Adobe Premiere Elements 9&ldquo;	/lt/products/premiereel/
+	&bdquo;Adobe Premiere Express&ldquo;	/products/premiereexpress/
+	&bdquo;Adobe Premiere Pro CS5&ldquo;	/lt/products/premiere/
+	&bdquo;Presenter 7&ldquo;	/eeurope/products/presenter/
+	&bdquo;Adobe Publish&ldquo;	http://www.omniture.com/en/products/conversion/publish?s_cid=25203
+	&bdquo;Reader&reg; X&ldquo;	/lt/products/reader.html
+	&bdquo;Adobe Recommendations&ldquo;	http://www.omniture.com/en/products/conversion/recommendations?s_cid=25205
+	&bdquo;RoboHelp&reg; 8&ldquo;	/lt/products/robohelp/
+	&bdquo;RoboHelp Server 8&ldquo;	/lt/products/robohelpserver/
+	&bdquo;Scene7&reg;&ldquo;	http://www.scene7.com
+	&bdquo;Adobe SearchCenter&ldquo;	http://www.omniture.com/en/products/visitor_acquisition/searchcenter?s_cid=25199
+	&bdquo;Shockwave&reg; Player&ldquo;	/eeurope/products/shockwaveplayer/
+	&bdquo;SiteCatalyst&reg;&ldquo;	http://www.omniture.com/en/products/online_analytics/sitecatalyst?s_cid=25196
+	&bdquo;Adobe SiteSearch&trade;&ldquo;	http://www.omniture.com/en/products/conversion/sitesearch?s_cid=25202
+	&bdquo;Soundbooth&reg; CS5&ldquo;	/lt/products/soundbooth/
+	&bdquo;Story&ldquo;	/go/adobestory_learnmore
+	&bdquo;Adobe&ldquo; apklausa	http://www.omniture.com/en/products/conversion/survey?s_cid=25204
+	&bdquo;Technical Communication Suite 2.5&ldquo;	/lt/products/technicalcommunicationsuite/
+	&bdquo;Test&amp;Target&trade;&ldquo;	http://www.omniture.com/en/products/conversion/testandtarget?s_cid=25200
+	&bdquo;Type&ldquo; produktai	/eeurope/type/
+	&bdquo;Visual Communicator&reg; 3&ldquo;	/eeurope/products/visualcommunicator/
+	&bdquo;Web Output Pak&ldquo;	/products/livecycle/outputserver/weboutputpak/
+	\xc5\xa0vietimo saugykla	/lt/purchase/
+	Verslo saugykla	http://volumelicensing.adobe.com/store/adbevlus/DisplayHomePage?promoid=FCRWO1234
+	\xc4\xaemon\xc4\x97s pirkimai	http://www.stage.adobe.com/eeurope/aboutadobe/volumelicensing/?promoid=FCRWZ
+	&bdquo;Adobe Reader&ldquo;	http://get.adobe.com/reader/
+	&bdquo;Adobe Flash Player&ldquo;	/go/getflashplayer
+		http://get.adobe.com/air/
+	&bdquo;Adobe Shockwave Player&ldquo;	/go/getshockwave
+	Pasirinkite savo region\xc4\x85	/go/gfooter_choose_region
+	(keisti)	/go/gfooter_choose_region
+	Saugumas	/go/gfooter_security_lt
+	Susisiekite su &bdquo;Adobe&ldquo;	/go/gfooter_contact_adobe_lt
+	Prane\xc5\xa1ti apie piratavim\xc4\x85	/go/gfooter_report_piracy_lt
+	&bdquo;EULAs&ldquo;	/go/gfooter_eulas_lt
+	Leidimai ir preki\xc5\xb3 \xc5\xbeenklai	/go/gfooter_permissions_trademarks_lt
+	Karjeros	/go/gfooter_careers_lt
+		/go/gfooter_truste_logo_lt
+	Naudojimo s\xc4\x85lygomis	/go/gfooter_terms_of_use_lt
+	Privatumo tinkle politika	/go/gfooter_privacy_policy_lt

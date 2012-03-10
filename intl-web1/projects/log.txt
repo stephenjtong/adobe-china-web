@@ -1,0 +1,924 @@
+http://www.adobe.com/ee/products/framemakerserver.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/ee/products/framemakerserver/faq.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/ee/products/framemakerserver/features.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/ee/products/framemakerserver/reviews-awards.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/ee/products/framemakerserver/showcase.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/ee/products/framemakerserver/tech-spec.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/ee/products/framemakerserver/upgrade-details.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/ee/products/robohelp.html:
+==================================================
+http://www.adobe.com/ee/products/robohelp/faq.html:
+	http://www.adobe.com/support/contact/	http://www.adobe.com/support/contact/
+	http://www.adobe.com/support/contact/	http://www.adobe.com/support/contact/
+	http://www.adobe.com/support/contact/	http://www.adobe.com/support/contact/
+	http://adobe.com/product/activation/	http://www.adobe.com/products/robohelp/activation.html
+	http://www.adobe.com/support/contact/	http://www.adobe.com/support/contact/
+==================================================
+http://www.adobe.com/ee/products/robohelp/features.html:
+==================================================
+http://www.adobe.com/ee/products/robohelp/features.html?view=topnew:
+==================================================
+http://www.adobe.com/ee/products/robohelp/reviews_awards.html:
+==================================================
+http://www.adobe.com/ee/products/robohelp/systemreqs.html:
+	www.adobe.com	http://www.adobe.com/
+==================================================
+http://www.adobe.com/ee/products/robohelp/upgrade.html:
+==================================================
+http://www.adobe.com/ee/products/robohelpserver.html:
+	Key features&nbsp;&rsaquo;	/products/robohelpserver/features.html
+==================================================
+http://www.adobe.com/ee/products/robohelpserver/faq.html:
+==================================================
+http://www.adobe.com/ee/products/robohelpserver/features.html:
+==================================================
+http://www.adobe.com/ee/products/robohelpserver/features.html?view=topnew:
+==================================================
+http://www.adobe.com/ee/products/robohelpserver/reviews-awards.html:
+==================================================
+http://www.adobe.com/ee/products/robohelpserver/showcase.html:
+==================================================
+http://www.adobe.com/ee/products/robohelpserver/tech-spec.html:
+==================================================
+http://www.adobe.com/ee/products/robohelpserver/upgrade.html:
+==================================================
+http://www.adobe.com/ee/products/technicalcommunicationsuite.html:
+==================================================
+http://www.adobe.com/ee/products/technicalcommunicationsuite/faq.html:
+	http://www.adobe.com/support/contact/	/support/contact/
+	http://www.adobe.com/support/contact/	/support/contact/
+	http://www.adobe.com/support/contact/	/support/contact/
+	http://www.adobe.com/products/activation	/products/activation/
+	http://www.adobe.com/support/contact/	/support/contact/
+==================================================
+http://www.adobe.com/ee/products/technicalcommunicationsuite/features._sl_id-contentfilter_sl_featuredisplaytypes_sl_new.html:
+==================================================
+http://www.adobe.com/ee/products/technicalcommunicationsuite/features.html:
+==================================================
+http://www.adobe.com/ee/products/technicalcommunicationsuite/reviews_awards.html:
+==================================================
+http://www.adobe.com/ee/products/technicalcommunicationsuite/showcase.html:
+==================================================
+http://www.adobe.com/ee/products/technicalcommunicationsuite/systemreqs.html:
+==================================================
+http://www.adobe.com/ee/products/technicalcommunicationsuite/try.html:
+==================================================
+http://www.adobe.com/ee/products/technicalcommunicationsuite/upgrade.html:
+==================================================
+http://www.adobe.com/ee/products/technicalcommunicationsuite/user-role.html:
+==================================================
+http://www.adobe.com/hr/products/framemakerserver.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/hr/products/framemakerserver/faq.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/hr/products/framemakerserver/features.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/hr/products/framemakerserver/reviews-awards.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/hr/products/framemakerserver/showcase.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/hr/products/framemakerserver/tech-spec.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/hr/products/framemakerserver/upgrade-details.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/hr/products/robohelp.html:
+==================================================
+http://www.adobe.com/hr/products/robohelp/faq.html:
+	http://www.adobe.com/support/contact/	http://www.adobe.com/support/contact/
+	http://www.adobe.com/support/contact/	http://www.adobe.com/support/contact/
+	http://www.adobe.com/support/contact/	http://www.adobe.com/support/contact/
+	http://www.adobe.com/support/contact/	http://www.adobe.com/support/contact/
+==================================================
+http://www.adobe.com/hr/products/robohelp/features.html:
+==================================================
+http://www.adobe.com/hr/products/robohelp/features.html?view=topnew:
+==================================================
+http://www.adobe.com/hr/products/robohelp/features.html?view=topoverall:
+==================================================
+http://www.adobe.com/hr/products/robohelp/reviews_awards.html:
+==================================================
+http://www.adobe.com/hr/products/robohelp/systemreqs.html:
+	www.adobe.com	http://www.adobe.com/
+==================================================
+http://www.adobe.com/hr/products/robohelp/upgrade.html:
+==================================================
+http://www.adobe.com/hr/products/robohelpserver.html:
+==================================================
+http://www.adobe.com/hr/products/robohelpserver/faq.html:
+==================================================
+http://www.adobe.com/hr/products/robohelpserver/features.html:
+==================================================
+http://www.adobe.com/hr/products/robohelpserver/features.html?view=topnew:
+==================================================
+http://www.adobe.com/hr/products/robohelpserver/reviews-awards.html:
+==================================================
+http://www.adobe.com/hr/products/robohelpserver/showcase.html:
+==================================================
+http://www.adobe.com/hr/products/robohelpserver/tech-spec.html:
+==================================================
+http://www.adobe.com/hr/products/robohelpserver/upgrade.html:
+==================================================
+http://www.adobe.com/hr/products/technicalcommunicationsuite.html:
+==================================================
+http://www.adobe.com/hr/products/technicalcommunicationsuite/faq.html:
+	http://www.adobe.com/support/contact/	/support/contact/
+	http://www.adobe.com/support/contact/	/support/contact/
+	http://www.adobe.com/support/contact/	/support/contact/
+	http://www.adobe.com/products/activation	/products/activation/
+	http://www.adobe.com/support/contact/	/support/contact/
+==================================================
+http://www.adobe.com/hr/products/technicalcommunicationsuite/features._sl_id-contentfilter_sl_featuredisplaytypes_sl_new.html:
+==================================================
+http://www.adobe.com/hr/products/technicalcommunicationsuite/features.html:
+==================================================
+http://www.adobe.com/hr/products/technicalcommunicationsuite/reviews_awards.html:
+==================================================
+http://www.adobe.com/hr/products/technicalcommunicationsuite/showcase.html:
+==================================================
+http://www.adobe.com/hr/products/technicalcommunicationsuite/systemreqs.html:
+==================================================
+http://www.adobe.com/hr/products/technicalcommunicationsuite/try.html:
+==================================================
+http://www.adobe.com/hr/products/technicalcommunicationsuite/upgrade.html:
+==================================================
+http://www.adobe.com/hr/products/technicalcommunicationsuite/user-role.html:
+==================================================
+http://www.adobe.com/hu/products/framemakerserver.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/hu/products/framemakerserver/faq.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/hu/products/framemakerserver/features.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/hu/products/framemakerserver/reviews-awards.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/hu/products/framemakerserver/showcase.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/hu/products/framemakerserver/tech-spec.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/hu/products/framemakerserver/upgrade-details.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/hu/products/robohelp.html:
+	Enterprise purchasing	http://www.adobe.com/aboutadobe/volumelicensing/clp/
+==================================================
+http://www.adobe.com/hu/products/robohelp/faq.html:
+	http://www.adobe.com/support/contact/	http://www.adobe.com/support/contact/
+	http://www.adobe.com/support/contact/	http://www.adobe.com/support/contact/
+	http://www.adobe.com/support/contact/	http://www.adobe.com/support/contact/
+	http://www.adobe.com/support/contact/	http://www.adobe.com/support/contact/
+	Enterprise purchasing	http://www.adobe.com/aboutadobe/volumelicensing/clp/
+==================================================
+http://www.adobe.com/hu/products/robohelp/features.html:
+	Enterprise purchasing	http://www.adobe.com/aboutadobe/volumelicensing/clp/
+==================================================
+http://www.adobe.com/hu/products/robohelp/reviews_awards.html:
+	Enterprise purchasing	http://www.adobe.com/aboutadobe/volumelicensing/clp/
+==================================================
+http://www.adobe.com/hu/products/robohelp/systemreqs.html:
+	www.adobe.com	http://www.adobe.com/
+	Enterprise purchasing	http://www.adobe.com/aboutadobe/volumelicensing/clp/
+==================================================
+http://www.adobe.com/hu/products/robohelp/upgrade.html:
+	Enterprise purchasing	http://www.adobe.com/aboutadobe/volumelicensing/clp/
+==================================================
+http://www.adobe.com/hu/products/robohelpserver.html:
+==================================================
+http://www.adobe.com/hu/products/robohelpserver/faq.html:
+==================================================
+http://www.adobe.com/hu/products/robohelpserver/features.html:
+==================================================
+http://www.adobe.com/hu/products/robohelpserver/features.html?view=topnew:
+		/solutions/
+	Education	/education/
+	Consumer photo and video	/digitalimag/consumer/
+	Print publishing	/print/
+	Pro photography	/products/photoshop/family/prosolutions/
+	Professional video	/solutions/professionalvideo/
+	Web design	/products/creativesuite/web/
+	All industries and solutions \xe2\x80\xba	/solutions/
+		/products/
+	After Effects	/products/air/
+	Adobe AIR	/products/air/
+	ColdFusion	/products/coldfusion/
+	Creative Suite family	/products/creativesuite/
+	Dreamweaver	/products/dreamweaver/
+	Flash Professional	/products/flash/
+	Flex	/products/flex/
+	Illustrator	/products/illustrator/
+	InDesign	/products/indesign/family/
+	Photoshop family	/products/photoshop/family/
+	Adobe Premiere Pro	/products/premiere/
+	All products \xe2\x80\xba	/products/
+		/support/
+	Support home	/support/
+	More \xe2\x80\xba	/support/
+		/aboutadobe/
+	About Adobe	/aboutadobe/
+	Contact Adobe	/aboutadobe/contact.html
+	More \xe2\x80\xba	/aboutadobe/
+		/downloads/
+	Downloads home	/downloads/
+	Trial downloads	/downloads/
+	More \xe2\x80\xba	/downloads/
+==================================================
+http://www.adobe.com/hu/products/robohelpserver/reviews-awards.html:
+==================================================
+http://www.adobe.com/hu/products/robohelpserver/showcase.html:
+==================================================
+http://www.adobe.com/hu/products/robohelpserver/tech-spec.html:
+==================================================
+http://www.adobe.com/hu/products/robohelpserver/upgrade.html:
+==================================================
+http://www.adobe.com/hu/products/technicalcommunicationsuite.html:
+==================================================
+http://www.adobe.com/hu/products/technicalcommunicationsuite/faq.html:
+	http://www.adobe.com/support/contact/	/support/contact/
+	http://www.adobe.com/support/contact/	/support/contact/
+	http://www.adobe.com/support/contact/	/support/contact/
+	http://www.adobe.com/products/activation	/products/activation/
+	http://www.adobe.com/support/contact/	/support/contact/
+==================================================
+http://www.adobe.com/hu/products/technicalcommunicationsuite/features._sl_id-contentfilter_sl_featuredisplaytypes_sl_new.html:
+==================================================
+http://www.adobe.com/hu/products/technicalcommunicationsuite/features.html:
+==================================================
+http://www.adobe.com/hu/products/technicalcommunicationsuite/reviews_awards.html:
+==================================================
+http://www.adobe.com/hu/products/technicalcommunicationsuite/showcase.html:
+==================================================
+http://www.adobe.com/hu/products/technicalcommunicationsuite/systemreqs.html:
+==================================================
+http://www.adobe.com/hu/products/technicalcommunicationsuite/try.html:
+==================================================
+http://www.adobe.com/hu/products/technicalcommunicationsuite/upgrade.html:
+==================================================
+http://www.adobe.com/hu/products/technicalcommunicationsuite/user-role.html:
+==================================================
+http://www.adobe.com/lt/products/framemakerserver.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/lt/products/framemakerserver/faq.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/lt/products/framemakerserver/features.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/lt/products/framemakerserver/reviews-awards.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/lt/products/framemakerserver/showcase.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/lt/products/framemakerserver/tech-spec.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/lt/products/framemakerserver/upgrade-details.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/lt/products/robohelp.html:
+==================================================
+http://www.adobe.com/lt/products/robohelp/faq.html:
+	http://www.adobe.com/support/contact/	http://www.adobe.com/support/contact/
+	http://www.adobe.com/support/contact/	http://www.adobe.com/support/contact/
+	http://www.adobe.com/support/contact/	http://www.adobe.com/support/contact/
+	http://www.adobe.com/support/contact/	http://www.adobe.com/support/contact/
+==================================================
+http://www.adobe.com/lt/products/robohelp/features.html:
+==================================================
+http://www.adobe.com/lt/products/robohelp/features.html?view=topnew:
+		/solutions/
+	Education	/education/
+	Consumer photo and video	/digitalimag/consumer/
+	Print publishing	/print/
+	Pro photography	/products/photoshop/family/prosolutions/
+	Professional video	/solutions/professionalvideo/
+	Web design	/products/creativesuite/web/
+	All industries and solutions \xe2\x80\xba	/solutions/
+		/products/
+	After Effects	/products/air/
+	Adobe AIR	/products/air/
+	ColdFusion	/products/coldfusion/
+	Creative Suite family	/products/creativesuite/
+	Dreamweaver	/products/dreamweaver/
+	Flash Professional	/products/flash/
+	Flex	/products/flex/
+	Illustrator	/products/illustrator/
+	InDesign	/products/indesign/family/
+	Photoshop family	/products/photoshop/family/
+	Adobe Premiere Pro	/products/premiere/
+	All products \xe2\x80\xba	/products/
+		/support/
+	Support home	/support/
+	More \xe2\x80\xba	/support/
+		/aboutadobe/
+	About Adobe	/aboutadobe/
+	Contact Adobe	/aboutadobe/contact.html
+	More \xe2\x80\xba	/aboutadobe/
+		/downloads/
+	Downloads home	/downloads/
+	Trial downloads	/downloads/
+	More \xe2\x80\xba	/downloads/
+==================================================
+http://www.adobe.com/lt/products/robohelp/features.html?view=topoverall:
+==================================================
+http://www.adobe.com/lt/products/robohelp/reviews_awards.html:
+==================================================
+http://www.adobe.com/lt/products/robohelp/systemreqs.html:
+	www.adobe.com	http://www.adobe.com/
+==================================================
+http://www.adobe.com/lt/products/robohelp/upgrade.html:
+==================================================
+http://www.adobe.com/lt/products/robohelpserver.html:
+==================================================
+http://www.adobe.com/lt/products/robohelpserver/faq.html:
+==================================================
+http://www.adobe.com/lt/products/robohelpserver/features.html:
+==================================================
+http://www.adobe.com/lt/products/robohelpserver/features.html?view=topnew:
+		/solutions/
+	Education	/education/
+	Consumer photo and video	/digitalimag/consumer/
+	Print publishing	/print/
+	Pro photography	/products/photoshop/family/prosolutions/
+	Professional video	/solutions/professionalvideo/
+	Web design	/products/creativesuite/web/
+	All industries and solutions \xe2\x80\xba	/solutions/
+		/products/
+	After Effects	/products/air/
+	Adobe AIR	/products/air/
+	ColdFusion	/products/coldfusion/
+	Creative Suite family	/products/creativesuite/
+	Dreamweaver	/products/dreamweaver/
+	Flash Professional	/products/flash/
+	Flex	/products/flex/
+	Illustrator	/products/illustrator/
+	InDesign	/products/indesign/family/
+	Photoshop family	/products/photoshop/family/
+	Adobe Premiere Pro	/products/premiere/
+	All products \xe2\x80\xba	/products/
+		/support/
+	Support home	/support/
+	More \xe2\x80\xba	/support/
+		/aboutadobe/
+	About Adobe	/aboutadobe/
+	Contact Adobe	/aboutadobe/contact.html
+	More \xe2\x80\xba	/aboutadobe/
+		/downloads/
+	Downloads home	/downloads/
+	Trial downloads	/downloads/
+	More \xe2\x80\xba	/downloads/
+==================================================
+http://www.adobe.com/lt/products/robohelpserver/reviews-awards.html:
+==================================================
+http://www.adobe.com/lt/products/robohelpserver/showcase.html:
+==================================================
+http://www.adobe.com/lt/products/robohelpserver/tech-spec.html:
+==================================================
+http://www.adobe.com/lt/products/robohelpserver/upgrade.html:
+==================================================
+http://www.adobe.com/lt/products/technicalcommunicationsuite.html:
+==================================================
+http://www.adobe.com/lt/products/technicalcommunicationsuite/faq.html:
+	http://www.adobe.com/support/contact/	/support/contact/
+	http://www.adobe.com/support/contact/	/support/contact/
+	http://www.adobe.com/support/contact/	/support/contact/
+	http://www.adobe.com/products/activation	/products/activation/
+	http://www.adobe.com/support/contact/	/support/contact/
+==================================================
+http://www.adobe.com/lt/products/technicalcommunicationsuite/features._sl_id-contentfilter_sl_featuredisplaytypes_sl_new.html:
+==================================================
+http://www.adobe.com/lt/products/technicalcommunicationsuite/features.html:
+==================================================
+http://www.adobe.com/lt/products/technicalcommunicationsuite/reviews_awards.html:
+==================================================
+http://www.adobe.com/lt/products/technicalcommunicationsuite/showcase.html:
+==================================================
+http://www.adobe.com/lt/products/technicalcommunicationsuite/systemreqs.html:
+==================================================
+http://www.adobe.com/lt/products/technicalcommunicationsuite/try.html:
+==================================================
+http://www.adobe.com/lt/products/technicalcommunicationsuite/upgrade.html:
+==================================================
+http://www.adobe.com/lt/products/technicalcommunicationsuite/user-role.html:
+==================================================
+http://www.adobe.com/lv/products/framemakerserver.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/lv/products/framemakerserver/faq.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/lv/products/framemakerserver/features.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/lv/products/framemakerserver/reviews-awards.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/lv/products/framemakerserver/showcase.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/lv/products/framemakerserver/tech-spec.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/lv/products/framemakerserver/upgrade-details.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/lv/products/robohelp.html:
+==================================================
+http://www.adobe.com/lv/products/robohelp/faq.html:
+	http://www.adobe.com/support/contact/	http://www.adobe.com/support/contact/
+	http://www.adobe.com/support/contact/	http://www.adobe.com/support/contact/
+	http://www.adobe.com/support/contact/	http://www.adobe.com/support/contact/
+	http://www.adobe.com/support/contact/	http://www.adobe.com/support/contact/
+==================================================
+http://www.adobe.com/lv/products/robohelp/features.html:
+==================================================
+http://www.adobe.com/lv/products/robohelp/features.html?view=topnew:
+==================================================
+http://www.adobe.com/lv/products/robohelp/features.html?view=topoverall:
+==================================================
+http://www.adobe.com/lv/products/robohelp/reviews_awards.html:
+==================================================
+http://www.adobe.com/lv/products/robohelp/systemreqs.html:
+	www.adobe.com	http://www.adobe.com/
+==================================================
+http://www.adobe.com/lv/products/robohelp/upgrade.html:
+==================================================
+http://www.adobe.com/lv/products/robohelpserver.html:
+==================================================
+http://www.adobe.com/lv/products/robohelpserver/faq.html:
+==================================================
+http://www.adobe.com/lv/products/robohelpserver/features.html:
+==================================================
+http://www.adobe.com/lv/products/robohelpserver/features.html?view=topnew:
+		/solutions/
+	Education	/education/
+	Consumer photo and video	/digitalimag/consumer/
+	Print publishing	/print/
+	Pro photography	/products/photoshop/family/prosolutions/
+	Professional video	/solutions/professionalvideo/
+	Web design	/products/creativesuite/web/
+	All industries and solutions \xe2\x80\xba	/solutions/
+		/products/
+	After Effects	/products/air/
+	Adobe AIR	/products/air/
+	ColdFusion	/products/coldfusion/
+	Creative Suite family	/products/creativesuite/
+	Dreamweaver	/products/dreamweaver/
+	Flash Professional	/products/flash/
+	Flex	/products/flex/
+	Illustrator	/products/illustrator/
+	InDesign	/products/indesign/family/
+	Photoshop family	/products/photoshop/family/
+	Adobe Premiere Pro	/products/premiere/
+	All products \xe2\x80\xba	/products/
+		/support/
+	Support home	/support/
+	More \xe2\x80\xba	/support/
+		/aboutadobe/
+	About Adobe	/aboutadobe/
+	Contact Adobe	/aboutadobe/contact.html
+	More \xe2\x80\xba	/aboutadobe/
+		/downloads/
+	Downloads home	/downloads/
+	Trial downloads	/downloads/
+	More \xe2\x80\xba	/downloads/
+==================================================
+http://www.adobe.com/lv/products/robohelpserver/reviews-awards.html:
+==================================================
+http://www.adobe.com/lv/products/robohelpserver/showcase.html:
+==================================================
+http://www.adobe.com/lv/products/robohelpserver/tech-spec.html:
+==================================================
+http://www.adobe.com/lv/products/robohelpserver/upgrade.html:
+==================================================
+http://www.adobe.com/lv/products/technicalcommunicationsuite.html:
+==================================================
+http://www.adobe.com/lv/products/technicalcommunicationsuite/faq.html:
+	http://www.adobe.com/support/contact/	/support/contact/
+	http://www.adobe.com/support/contact/	/support/contact/
+	http://www.adobe.com/support/contact/	/support/contact/
+	http://www.adobe.com/products/activation	/products/activation/
+	http://www.adobe.com/support/contact/	/support/contact/
+==================================================
+http://www.adobe.com/lv/products/technicalcommunicationsuite/features._sl_id-contentfilter_sl_featuredisplaytypes_sl_new.html:
+==================================================
+http://www.adobe.com/lv/products/technicalcommunicationsuite/features.html:
+==================================================
+http://www.adobe.com/lv/products/technicalcommunicationsuite/reviews_awards.html:
+==================================================
+http://www.adobe.com/lv/products/technicalcommunicationsuite/showcase.html:
+==================================================
+http://www.adobe.com/lv/products/technicalcommunicationsuite/systemreqs.html:
+==================================================
+http://www.adobe.com/lv/products/technicalcommunicationsuite/try.html:
+==================================================
+http://www.adobe.com/lv/products/technicalcommunicationsuite/upgrade.html:
+==================================================
+http://www.adobe.com/lv/products/technicalcommunicationsuite/user-role.html:
+==================================================
+http://www.adobe.com/rs/products/framemakerserver.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/rs/products/framemakerserver/faq.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/rs/products/framemakerserver/features.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/rs/products/framemakerserver/reviews-awards.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/rs/products/framemakerserver/showcase.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/rs/products/framemakerserver/tech-spec.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/rs/products/framemakerserver/upgrade-details.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/rs/products/robohelp.html:
+==================================================
+http://www.adobe.com/rs/products/robohelp/faq.html:
+	http://www.adobe.com/support/contact/	http://www.adobe.com/support/contact/
+	http://www.adobe.com/support/contact/	http://www.adobe.com/support/contact/
+	http://www.adobe.com/support/contact/	http://www.adobe.com/support/contact/
+	http://adobe.com/product/activation/	http://www.adobe.com/products/robohelp/activation.html
+	http://www.adobe.com/support/contact/	http://www.adobe.com/support/contact/
+==================================================
+http://www.adobe.com/rs/products/robohelp/features.html:
+==================================================
+http://www.adobe.com/rs/products/robohelp/features.html?view=topnew:
+==================================================
+http://www.adobe.com/rs/products/robohelp/features.html?view=topoverall:
+		/solutions/
+	Education	/education/
+	Consumer photo and video	/digitalimag/consumer/
+	Print publishing	/print/
+	Pro photography	/products/photoshop/family/prosolutions/
+	Professional video	/solutions/professionalvideo/
+	Web design	/products/creativesuite/web/
+	All industries and solutions \xe2\x80\xba	/solutions/
+		/products/
+	After Effects	/products/air/
+	Adobe AIR	/products/air/
+	ColdFusion	/products/coldfusion/
+	Creative Suite family	/products/creativesuite/
+	Dreamweaver	/products/dreamweaver/
+	Flash Professional	/products/flash/
+	Flex	/products/flex/
+	Illustrator	/products/illustrator/
+	InDesign	/products/indesign/family/
+	Photoshop family	/products/photoshop/family/
+	Adobe Premiere Pro	/products/premiere/
+	All products \xe2\x80\xba	/products/
+		/support/
+	Support home	/support/
+	More \xe2\x80\xba	/support/
+		/aboutadobe/
+	About Adobe	/aboutadobe/
+	Contact Adobe	/aboutadobe/contact.html
+	More \xe2\x80\xba	/aboutadobe/
+		/downloads/
+	Downloads home	/downloads/
+	Trial downloads	/downloads/
+	More \xe2\x80\xba	/downloads/
+==================================================
+http://www.adobe.com/rs/products/robohelp/reviews_awards.html:
+==================================================
+http://www.adobe.com/rs/products/robohelp/systemreqs.html:
+	www.adobe.com	http://www.adobe.com/
+==================================================
+http://www.adobe.com/rs/products/robohelp/upgrade.html:
+==================================================
+http://www.adobe.com/rs/products/robohelpserver.html:
+==================================================
+http://www.adobe.com/rs/products/robohelpserver/faq.html:
+==================================================
+http://www.adobe.com/rs/products/robohelpserver/features.html:
+==================================================
+http://www.adobe.com/rs/products/robohelpserver/features.html?view=topnew:
+		/solutions/
+	Education	/education/
+	Consumer photo and video	/digitalimag/consumer/
+	Print publishing	/print/
+	Pro photography	/products/photoshop/family/prosolutions/
+	Professional video	/solutions/professionalvideo/
+	Web design	/products/creativesuite/web/
+	All industries and solutions \xe2\x80\xba	/solutions/
+		/products/
+	After Effects	/products/air/
+	Adobe AIR	/products/air/
+	ColdFusion	/products/coldfusion/
+	Creative Suite family	/products/creativesuite/
+	Dreamweaver	/products/dreamweaver/
+	Flash Professional	/products/flash/
+	Flex	/products/flex/
+	Illustrator	/products/illustrator/
+	InDesign	/products/indesign/family/
+	Photoshop family	/products/photoshop/family/
+	Adobe Premiere Pro	/products/premiere/
+	All products \xe2\x80\xba	/products/
+		/support/
+	Support home	/support/
+	More \xe2\x80\xba	/support/
+		/aboutadobe/
+	About Adobe	/aboutadobe/
+	Contact Adobe	/aboutadobe/contact.html
+	More \xe2\x80\xba	/aboutadobe/
+		/downloads/
+	Downloads home	/downloads/
+	Trial downloads	/downloads/
+	More \xe2\x80\xba	/downloads/
+==================================================
+http://www.adobe.com/rs/products/robohelpserver/reviews-awards.html:
+==================================================
+http://www.adobe.com/rs/products/robohelpserver/showcase.html:
+==================================================
+http://www.adobe.com/rs/products/robohelpserver/tech-spec.html:
+==================================================
+http://www.adobe.com/rs/products/robohelpserver/upgrade.html:
+==================================================
+http://www.adobe.com/rs/products/technicalcommunicationsuite.html:
+==================================================
+http://www.adobe.com/rs/products/technicalcommunicationsuite/faq.html:
+	http://www.adobe.com/support/contact/	/support/contact/
+	http://www.adobe.com/support/contact/	/support/contact/
+	http://www.adobe.com/support/contact/	/support/contact/
+	http://www.adobe.com/products/activation	/products/activation/
+	http://www.adobe.com/support/contact/	/support/contact/
+==================================================
+http://www.adobe.com/rs/products/technicalcommunicationsuite/features._sl_id-contentfilter_sl_featuredisplaytypes_sl_new.html:
+==================================================
+http://www.adobe.com/rs/products/technicalcommunicationsuite/features.html:
+==================================================
+http://www.adobe.com/rs/products/technicalcommunicationsuite/reviews_awards.html:
+==================================================
+http://www.adobe.com/rs/products/technicalcommunicationsuite/showcase.html:
+==================================================
+http://www.adobe.com/rs/products/technicalcommunicationsuite/systemreqs.html:
+==================================================
+http://www.adobe.com/rs/products/technicalcommunicationsuite/try.html:
+==================================================
+http://www.adobe.com/rs/products/technicalcommunicationsuite/upgrade.html:
+==================================================
+http://www.adobe.com/rs/products/technicalcommunicationsuite/user-role.html:
+==================================================
+http://www.adobe.com/si/products/framemakerserver.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/si/products/framemakerserver/faq.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/si/products/framemakerserver/features.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/si/products/framemakerserver/reviews-awards.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/si/products/framemakerserver/showcase.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/si/products/framemakerserver/tech-spec.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/si/products/framemakerserver/upgrade-details.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/si/products/robohelp.html:
+==================================================
+http://www.adobe.com/si/products/robohelp/faq.html:
+	http://www.adobe.com/support/contact/	http://www.adobe.com/support/contact/
+	http://www.adobe.com/support/contact/	http://www.adobe.com/support/contact/
+	http://www.adobe.com/support/contact/	http://www.adobe.com/support/contact/
+	http://adobe.com/product/activation/	http://www.adobe.com/products/robohelp/activation.html
+	http://www.adobe.com/support/contact/	http://www.adobe.com/support/contact/
+==================================================
+http://www.adobe.com/si/products/robohelp/features.html:
+==================================================
+http://www.adobe.com/si/products/robohelp/features.html?view=topnew:
+==================================================
+http://www.adobe.com/si/products/robohelp/features.html?view=topoverall:
+==================================================
+http://www.adobe.com/si/products/robohelp/reviews_awards.html:
+==================================================
+http://www.adobe.com/si/products/robohelp/systemreqs.html:
+	www.adobe.com	http://www.adobe.com/
+==================================================
+http://www.adobe.com/si/products/robohelp/upgrade.html:
+==================================================
+http://www.adobe.com/si/products/robohelpserver.html:
+==================================================
+http://www.adobe.com/si/products/robohelpserver/faq.html:
+==================================================
+http://www.adobe.com/si/products/robohelpserver/features.html:
+==================================================
+http://www.adobe.com/si/products/robohelpserver/features.html?view=topnew:
+==================================================
+http://www.adobe.com/si/products/robohelpserver/reviews-awards.html:
+==================================================
+http://www.adobe.com/si/products/robohelpserver/showcase.html:
+==================================================
+http://www.adobe.com/si/products/robohelpserver/tech-spec.html:
+==================================================
+http://www.adobe.com/si/products/robohelpserver/upgrade.html:
+==================================================
+http://www.adobe.com/si/products/technicalcommunicationsuite.html:
+==================================================
+http://www.adobe.com/si/products/technicalcommunicationsuite/faq.html:
+	http://www.adobe.com/support/contact/	/support/contact/
+	http://www.adobe.com/support/contact/	/support/contact/
+	http://www.adobe.com/support/contact/	/support/contact/
+	http://www.adobe.com/products/activation	/products/activation/
+	http://www.adobe.com/support/contact/	/support/contact/
+==================================================
+http://www.adobe.com/si/products/technicalcommunicationsuite/features._sl_id-contentfilter_sl_featuredisplaytypes_sl_new.html:
+==================================================
+http://www.adobe.com/si/products/technicalcommunicationsuite/features.html:
+==================================================
+http://www.adobe.com/si/products/technicalcommunicationsuite/reviews_awards.html:
+==================================================
+http://www.adobe.com/si/products/technicalcommunicationsuite/showcase.html:
+==================================================
+http://www.adobe.com/si/products/technicalcommunicationsuite/systemreqs.html:
+==================================================
+http://www.adobe.com/si/products/technicalcommunicationsuite/try.html:
+==================================================
+http://www.adobe.com/si/products/technicalcommunicationsuite/upgrade.html:
+==================================================
+http://www.adobe.com/si/products/technicalcommunicationsuite/user-role.html:
+==================================================
+http://www.adobe.com/sk/products/framemakerserver.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/sk/products/framemakerserver/faq.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/sk/products/framemakerserver/features.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/sk/products/framemakerserver/reviews-awards.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/sk/products/framemakerserver/showcase.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/sk/products/framemakerserver/tech-spec.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/sk/products/framemakerserver/upgrade-details.html:
+	Training	/products/framemaker/training.html
+==================================================
+http://www.adobe.com/sk/products/robohelp.html:
+==================================================
+http://www.adobe.com/sk/products/robohelp/faq.html:
+	http://www.adobe.com/support/contact/	http://www.adobe.com/support/contact/
+	http://www.adobe.com/support/contact/	http://www.adobe.com/support/contact/
+	http://www.adobe.com/support/contact/	http://www.adobe.com/support/contact/
+	http://www.adobe.com/support/contact/	http://www.adobe.com/support/contact/
+==================================================
+http://www.adobe.com/sk/products/robohelp/features.html:
+==================================================
+http://www.adobe.com/sk/products/robohelp/features.html?view=topnew:
+		/solutions/
+	Education	/education/
+	Consumer photo and video	/digitalimag/consumer/
+	Print publishing	/print/
+	Pro photography	/products/photoshop/family/prosolutions/
+	Professional video	/solutions/professionalvideo/
+	Web design	/products/creativesuite/web/
+	All industries and solutions \xe2\x80\xba	/solutions/
+		/products/
+	After Effects	/products/air/
+	Adobe AIR	/products/air/
+	ColdFusion	/products/coldfusion/
+	Creative Suite family	/products/creativesuite/
+	Dreamweaver	/products/dreamweaver/
+	Flash Professional	/products/flash/
+	Flex	/products/flex/
+	Illustrator	/products/illustrator/
+	InDesign	/products/indesign/family/
+	Photoshop family	/products/photoshop/family/
+	Adobe Premiere Pro	/products/premiere/
+	All products \xe2\x80\xba	/products/
+		/support/
+	Support home	/support/
+	More \xe2\x80\xba	/support/
+		/aboutadobe/
+	About Adobe	/aboutadobe/
+	Contact Adobe	/aboutadobe/contact.html
+	More \xe2\x80\xba	/aboutadobe/
+		/downloads/
+	Downloads home	/downloads/
+	Trial downloads	/downloads/
+	More \xe2\x80\xba	/downloads/
+==================================================
+http://www.adobe.com/sk/products/robohelp/features.html?view=topoverall:
+==================================================
+http://www.adobe.com/sk/products/robohelp/reviews_awards.html:
+==================================================
+http://www.adobe.com/sk/products/robohelp/systemreqs.html:
+	www.adobe.com	http://www.adobe.com/
+==================================================
+http://www.adobe.com/sk/products/robohelp/upgrade.html:
+==================================================
+http://www.adobe.com/sk/products/robohelpserver.html:
+==================================================
+http://www.adobe.com/sk/products/robohelpserver/faq.html:
+==================================================
+http://www.adobe.com/sk/products/robohelpserver/features.html:
+==================================================
+http://www.adobe.com/sk/products/robohelpserver/features.html?view=topnew:
+		/solutions/
+	Education	/education/
+	Consumer photo and video	/digitalimag/consumer/
+	Print publishing	/print/
+	Pro photography	/products/photoshop/family/prosolutions/
+	Professional video	/solutions/professionalvideo/
+	Web design	/products/creativesuite/web/
+	All industries and solutions \xe2\x80\xba	/solutions/
+		/products/
+	After Effects	/products/air/
+	Adobe AIR	/products/air/
+	ColdFusion	/products/coldfusion/
+	Creative Suite family	/products/creativesuite/
+	Dreamweaver	/products/dreamweaver/
+	Flash Professional	/products/flash/
+	Flex	/products/flex/
+	Illustrator	/products/illustrator/
+	InDesign	/products/indesign/family/
+	Photoshop family	/products/photoshop/family/
+	Adobe Premiere Pro	/products/premiere/
+	All products \xe2\x80\xba	/products/
+		/support/
+	Support home	/support/
+	More \xe2\x80\xba	/support/
+		/aboutadobe/
+	About Adobe	/aboutadobe/
+	Contact Adobe	/aboutadobe/contact.html
+	More \xe2\x80\xba	/aboutadobe/
+		/downloads/
+	Downloads home	/downloads/
+	Trial downloads	/downloads/
+	More \xe2\x80\xba	/downloads/
+==================================================
+http://www.adobe.com/sk/products/robohelpserver/reviews-awards.html:
+==================================================
+http://www.adobe.com/sk/products/robohelpserver/showcase.html:
+==================================================
+http://www.adobe.com/sk/products/robohelpserver/tech-spec.html:
+==================================================
+http://www.adobe.com/sk/products/robohelpserver/upgrade.html:
+==================================================
+http://www.adobe.com/sk/products/technicalcommunicationsuite.html:
+==================================================
+http://www.adobe.com/sk/products/technicalcommunicationsuite/faq.html:
+	http://www.adobe.com/support/contact/	/support/contact/
+	http://www.adobe.com/support/contact/	/support/contact/
+	http://www.adobe.com/support/contact/	/support/contact/
+	http://www.adobe.com/products/activation	/products/activation/
+	http://www.adobe.com/support/contact/	/support/contact/
+==================================================
+http://www.adobe.com/sk/products/technicalcommunicationsuite/features._sl_id-contentfilter_sl_featuredisplaytypes_sl_new.html:
+==================================================
+http://www.adobe.com/sk/products/technicalcommunicationsuite/features.html:
+==================================================
+http://www.adobe.com/sk/products/technicalcommunicationsuite/reviews_awards.html:
+==================================================
+http://www.adobe.com/sk/products/technicalcommunicationsuite/showcase.html:
+==================================================
+http://www.adobe.com/sk/products/technicalcommunicationsuite/systemreqs.html:
+==================================================
+http://www.adobe.com/sk/products/technicalcommunicationsuite/try.html:
+==================================================
+http://www.adobe.com/sk/products/technicalcommunicationsuite/upgrade.html:
+==================================================
+http://www.adobe.com/sk/products/technicalcommunicationsuite/user-role.html:
+==================================================
