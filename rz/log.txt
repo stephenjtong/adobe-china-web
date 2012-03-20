@@ -1,0 +1,263 @@
+1911-5 - MCR124115:Localize Acrobat Pro showcase page
+Priority: 2B
+Start Date: April 12 2011
+Due Date: May 20 2011
+Countries involved: T1, T2, T3, T4
+Countries Ready: UK,FR,DE,IT,ES,NL,BR,KR,CN,LA,MX,MENA,AFRICA,AP,EEUROPE,CAFR,AU,AT,CA,IN,NZ,CZ,PL,RO,RU,PT,TR,BG,HR,HU,LV,LT,EE,RS,SK,SI,UA
+Countries Staged: done, DK, live, with, font, issue., FI, NO, SE
+Countries NOT ready nor staged:     JP, TW, HK_ZH, SEA
+Idiom Name: 1911_BoBs5d_mcr124115
+----------
+1911-5:MCR124115:Localize Acrobat Pro showcase page
+	
+		
+editedit  
+	
+a database entry created by click for a command menu  Kai Kang on 12 Apr 11
+	
+  next  
+	
+		
+  previous  
+	
+		
+  summary  
+Project ID & Subject
+	
+1911-5:MCR124115:Localize Acrobat Pro showcase page
+Priority
+	
+2
+NA Post Date
+	
+12 Apr 2011
+Intl Post Date
+	
+25 Apr 2011
+Business Unit
+	
+DESBU
+Production Artist
+	
+Kai Kang
+Languages
+	
+IE (UK/Pac) en-gb, French fr-fr, German de-de, Swedish se-se, Japanese jp-jp, Danish da-dk, Finnish fi-fi, Italian it-it, Dutch nl-nl, Norwegian no-no, Spanish es-es, Korean ko-kr, Chinese Simplified zh-cn, Chinese Traditional zh-tw, Brazilian/Portuguese pt-br, Czech cs-cz, Croatian hr-hr, Hungarian hu-hu, Polish pl-pl, Romanian ro-ro, Russian ru-ru, Slovakian sk-sk, Slovenian sl-si, Turkish tr-tr, Ukranian uk-ua
+NA URLs
+	
+http://www.adobe.com/products/acrobatpro/showcase.html
+Idiom Project Details
+	
+Idiom project name
+1911_BoBs5d_mcr124115
+Files in handoff
+https://loc.adobe.com/ws/custom/adobe/taskreport/taskreport.jsp?project=130034&token=1169973407&random=0.4033535804168804
+Attachments
+	
+			
+					
+Readright-click for a command menu
+instructions.msg
+					
+  create  
+		
+  add file  
+		
+  mark read mark read  
+		
+  commands  
+		
+view as large icons
+		
+view as a list
+		
+view details
+		
+save settings for all users
+Instructions
+	
+I compiled the instructions from eRoom and Bugzilla, please reference the attached instruction instead.
+----------
+********************
+please copy below six folders from EN into your local acrobat folder http://author.corp.adobe.com/libs/wcm/core/content/siteadmin.html#/content/dam/Adobe/<loc>/casestudies/acrobat 
+
+\xe2\x80\xa2	Hassell
+\xe2\x80\xa2	Divide
+\xe2\x80\xa2	Bombardier
+\xe2\x80\xa2	Lloyds-register
+\xe2\x80\xa2	Allianz
+\xe2\x80\xa2	Law-society-of-scotland 
+********************
+20110515GordonL > moving to May 20, Robert Repass is working on having the Gallery use system font
+
+20110505 Nancy > RU, UA  done with EN content, will change back to loc&#39;d version when bug 2852358 fixed.
+
+20110427GeorgL> DE done with font issues (I can see the same issues for FR as well)
+
+20110427Hejian>PL KR done, KR has double byte display issue, using English version
+
+20110426 Xuemei > BR PT done
+
+20110426Jishi>EE, HU, LT, LV, SK, SI, HR, RS done
+
+20110425 Qian > IT, CH_IT done. TW and HK_ZH  have double byte display issue
+
+20110425 Nancy> BG done, RU, UA staged with font issue
+
+20110422 Song > CN,NL,BE_NL done, CN has font issue
+
+20110422 Susie > SEA done
+
+20110421 Xiaofeng > EEUROPE, MENA, CA, IE, BE_EN, LU_EN done
+
+20110421 Qian > AP, AFRICA, AU, NZ, IN, HK_EN done
+
+20110421 Ying > CZ, RO, TR done with font issue
+
+20110421 Aili > ES, LA, MX done
+
+20110420 Donald > DK live with font issue. FI NO SE staged
+
+20110419 Yi > FR geos done
+
+20110414GordonL > UK done
+
+================================================================================
+1726-1 - Acrobat X IT resources pages
+Priority: 2B
+Start Date: April 12 2011
+Due Date: May 6 2011
+Countries involved: T1, IT, ES, FI, NO, DK, MX, LA, AP, CAFR, SEA, MENA, AFRICA, EEUROPE
+Countries Ready: UK,FR,DE,SE,IT,ES,FI,NO,DK,LA,MX,MENA,AFRICA,AP,EEUROPE,SEA,CAFR,AT
+Countries Staged: JP
+Countries NOT ready nor staged: T1
+Idiom Name: 
+----------
+1726-1: Acrobat X IT resources pages
+Priority
+	
+2
+NA Post Date
+	
+ 
+Intl Post Date
+	
+25 Apr 2011
+Business Unit
+	
+CSBU
+Production Artist
+	
+Kelli Archie
+Languages
+	
+IE (UK/Pac) en-gb, French fr-fr, German de-de, Swedish se-se, Japanese jp-jp, Danish da-dk, Finnish fi-fi, Italian it-it, Norwegian no-no, Spanish es-es
+NA URLs
+	
+http://www.adobe.com/products/acrobat/it.html
+http://www.adobe.com/products/acrobat/enterprise-licensing.html
+http://www.adobe.com/products/acrobat/technical-resources.html
+Idiom Project Details
+	
+1726_acrobat_x_it_resources
+
+https://loc.adobe.com/ws/custom/adobe/taskreport/taskreport.jsp?project=128821&token=2065498716
+Attachments
+	
+			
+					
+  create  
+		
+  add file  
+		
+  mark read mark read  
+		
+  commands  
+		
+view as large icons
+		
+view as a list
+		
+view details
+		
+save settings for all users
+Instructions
+	
+http://www.adobe.com/products/acrobat/it.html
+
+1. In the &#39;Technical resources&#39; pod, please remove the four black and white icons. See NA for example.
+
+2. Under &#39;White papers&#39;, fifth PDF down, please replace the PDF title text "Building the future of collaboration" with the new updated translated versions, provided below:
+
+FI: Tulevaisuuden yhteisty\xc3\xb6n mahdollistaminen
+
+SE: M\xc3\xb6jligg\xc3\xb6r framtidens samarbete
+
+DK: Baner vejen for fremtidens samarbejde
+
+NO: Danne grunnlaget for fremtidens samarbeidsl\xc3\xb8sninger
+
+JP: \xe6\x96\xb0\xe3\x81\x9f\xe3\x81\xaa\xe3\x82\xb3\xe3\x83\xa9\xe3\x83\x9c\xe3\x83\xac\xe3\x83\xbc\xe3\x82\xb7\xe3\x83\xa7\xe3\x83\xb3\xe3\x82\x92\xe5\xae\x9f\xe7\x8f\xbe
+
+FR: Vers une collaboration plus efficace
+
+IT: Verso il futuro della collaborazione
+
+ES: Posibilitando el futuro de la colaboraci\xc3\xb3n
+
+DE: Die Zukunft der Zusammenarbeit pr\xc3\xa4gen
+
+
+3. Post files on 4/25 or as soon as possible.
+----------
+*********************
+loc files imported, please have them live by May 6
+
+these are what was loc:
+/fr-fr/1726_acrobat_x_it_resource_page/it.html             
+/fr-fr/1726_acrobat_x_enterprise_licensing/enterprise-licensing.html  
+/fr-fr/1726_acrobat_x_technical_resources/technical-resources.html
+/de-de/1726_acrobat_x_it_resource_page/it.html         
+/de-de/1726_acrobat_x_enterprise_licensing/enterprise-licensing.html
+/de-de/1726_acrobat_x_technical_resources/technical-resources.html
+/ja-jp/1726_acrobat_x_it_resource_page/it.html            
+/ja-jp/1726_acrobat_x_enterprise_licensing/enterprise-licensing.html 
+/ja-jp/1726_acrobat_x_technical_resources/technical-resources.html
+/fi-fi/1726_acrobat_x_it_resource_page/it.html              
+/fi-fi/1726_acrobat_x_enterprise_licensing/enterprise-licensing.html   
+/fi-fi/1726_acrobat_x_technical_resources/technical-resources.html
+/sv-se/1726_acrobat_x_it_resource_page/it.html           
+/sv-se/1726_acrobat_x_enterprise_licensing/enterprise-licensing.html
+/sv-se/1726_acrobat_x_technical_resources/technical-resources.html
+/it-it/1726_acrobat_x_it_resource_page/it.html              
+/it-it/1726_acrobat_x_enterprise_licensing/enterprise-licensing.html   
+/it-it/1726_acrobat_x_technical_resources/technical-resources.html
+/da-dk/1726_acrobat_x_it_resource_page/it.html          
+/da-dk/1726_acrobat_x_enterprise_licensing/enterprise-licensing.html
+/da-dk/1726_acrobat_x_technical_resources/technical-resources.html
+/es-es/1726_acrobat_x_it_resource_page/it.html          
+/es-es/1726_acrobat_x_enterprise_licensing/enterprise-licensing.html
+/es-es/1726_acrobat_x_technical_resources/technical-resources.html
+/nb-no/1726_acrobat_x_it_resource_page/it.html         
+/nb-no/1726_acrobat_x_enterprise_licensing/enterprise-licensing.html
+/nb-no/1726_acrobat_x_technical_resources/technical-resources.html
+***********************
+20110510 Yuning Yang > JP staged
+
+20110509 Dingding > SE, NO, FI, DK done
+
+20110506 Qian > FR geos done
+
+20110505GeorgL> DE geos done
+
+20110505 Xuemei > ES LA MX done
+
+20110503 Wei > IT CH_IT done
+
+20110427 Susie > AP, AU, NZ, IN, HK_EN, SEA done
+
+20110422 Xiaofeng > EEUROPE, MENA, AFRICA, CA, IE, BE_EN, LU_EN done
+
+20110414GordonL > UK done
+
+================================================================================
